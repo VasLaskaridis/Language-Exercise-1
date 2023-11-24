@@ -5,7 +5,7 @@ This project is an e-learning exercise written in Unity. The exercise will help 
 - Listening exercise
 - The student must sellect the object that it was discribed by audio
 - A button that plays the audio when clicked
-- Multiple objects for the student to chose from
+- Multiple objects for the student to choose from
 - Animation for positive or negative reenforcement
 - After the student has chosen correctly a new button must appear with the image of the object that when clicked plays the audio of the object
 - A reset button
